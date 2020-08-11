@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Egorik11/Blog-Project_Team.io/static/css/main.ba4a60a2.chunk.css",
+    "main.js": "/Egorik11/Blog-Project_Team.io/static/js/main.74227a58.chunk.js",
+    "main.js.map": "/Egorik11/Blog-Project_Team.io/static/js/main.74227a58.chunk.js.map",
+    "runtime-main.js": "/Egorik11/Blog-Project_Team.io/static/js/runtime-main.338e6940.js",
+    "runtime-main.js.map": "/Egorik11/Blog-Project_Team.io/static/js/runtime-main.338e6940.js.map",
+    "static/js/2.a32c412b.chunk.js": "/Egorik11/Blog-Project_Team.io/static/js/2.a32c412b.chunk.js",
+    "static/js/2.a32c412b.chunk.js.map": "/Egorik11/Blog-Project_Team.io/static/js/2.a32c412b.chunk.js.map",
+    "index.html": "/Egorik11/Blog-Project_Team.io/index.html",
+    "precache-manifest.dbf3807eea4981a8ae0a73c7a0f72bea.js": "/Egorik11/Blog-Project_Team.io/precache-manifest.dbf3807eea4981a8ae0a73c7a0f72bea.js",
+    "service-worker.js": "/Egorik11/Blog-Project_Team.io/service-worker.js",
+    "static/css/main.ba4a60a2.chunk.css.map": "/Egorik11/Blog-Project_Team.io/static/css/main.ba4a60a2.chunk.css.map",
+    "static/js/2.a32c412b.chunk.js.LICENSE.txt": "/Egorik11/Blog-Project_Team.io/static/js/2.a32c412b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.338e6940.js",
+    "static/js/2.a32c412b.chunk.js",
+    "static/css/main.ba4a60a2.chunk.css",
+    "static/js/main.74227a58.chunk.js"
+  ]
+}
